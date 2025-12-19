@@ -1,2 +1,2 @@
 # SQL-Query-Project
-This project provides a comprehensive collection of advanced SQL queries covering complex joins, aggregations, filtering, data manipulation, and performance optimization techniques. It serves as a practical reference for database professionals working with customer, order, product, and employee management systems.
+This project covers essential SQL topics including Advanced Querying with complex joins and aggregations, Data Manipulation with updates and transactions, Database Views creation, Window Functions and CTEs for analytical queries, Performance Optimization techniques, and Stored Procedures for business logic automation.
